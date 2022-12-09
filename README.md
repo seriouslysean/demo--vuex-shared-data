@@ -6,7 +6,7 @@ What is the best way to share data between two stores? For instance, imagine you
 - Non-Configurable: Needs shared data + product attributes
 - Configurable: Needs shared data + product components to build a custom product
 
-[View this demo on StackBlitz.](https://stackblitz.com/edit/vue-hhbtff?file=README.md)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vue-hhbtff)
 
 ## Method 1
 
